@@ -1,0 +1,22 @@
+# Created with YamlCreate.ps1 v2.4.1 Dumplings Mod $debug=QUSU.CRLF.7-4-5.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: NetEase.DD
+PackageVersion: 1.0.0.1
+InstallerType: nullsoft
+Scope: machine
+UpgradeBehavior: install
+Protocols:
+- cc-voice-hub
+ReleaseDate: 2024-10-11
+Installers:
+- Architecture: x86
+  InstallerUrl: https://cc.gdl.netease.com/NetEase_DD_Setup_1.0.39_100039_304170_x32.exe
+  InstallerSha256: 755AA4F35E1CEE899DD1664D22B6BA97B168FAEFED8935ACCC06E5227CF58766
+  ProductCode: NetEaseDD
+- Architecture: x64
+  InstallerUrl: https://cc.gdl.netease.com/NetEase_DD_Setup_100039_1.0.39_304168_x64.exe
+  InstallerSha256: 68250CA461E75E8FA463441522879BC6FFA5512AF3F557A2CE2832E2D2F5731E
+  ProductCode: NetEaseDD
+ManifestType: installer
+ManifestVersion: 1.6.0
