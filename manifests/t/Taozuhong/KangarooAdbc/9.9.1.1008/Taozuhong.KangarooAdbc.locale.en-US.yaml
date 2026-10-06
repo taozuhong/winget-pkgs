@@ -18,12 +18,9 @@ CopyrightUrl: https://www.datatable.online/en/license/service-agreement.html
 ShortDescription: Kangaroo is a SQL client and admin tool.
 Description: Kangaroo is a AI-powered SQL client and admin tool for popular databases(MariaDB / MongoDB / MySQL / Oracle / PostgreSQL / Redis / SQLite / SQLServer / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 Tags:
-- Admin
-- Client
 - Database
 - Import
 - Export
-- Management-tools
 - ADBC
 - Cloud database
 - MariaDB

@@ -14,7 +14,7 @@ InstallModes:
 ReleaseDate: 2026-10-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dbkangaroo/kangaroo/releases/download/v9.9.1.1008/Kangaroo-ADBC-9.9.1.1008-x86_64.exe
+  InstallerUrl: https://github.com/dbkangaroo/kangaroo/releases/download/v9.9.1.1008/Kangaroo-Adbc-9.9.1.1008-x86_64.exe
   InstallerSha256: e2c1ab9b11116f2bc530ecb1fbd79420da6d583e1e73153f800dd8656837d3ac
 ManifestType: installer
 ManifestVersion: 1.12.0
