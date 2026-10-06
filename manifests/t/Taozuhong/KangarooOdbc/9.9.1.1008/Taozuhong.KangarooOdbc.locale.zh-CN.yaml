@@ -23,6 +23,8 @@ Tags:
 - 导入
 - 导出
 - 管理工具
+- ADBC
+- Cloud database
 - MariaDB
 - MongoDB
 - MySQL
@@ -33,9 +35,6 @@ Tags:
 - SQL
 - SQLite
 - SQLServer
-- ADBC
-- ODBC
-- Cloud database
 ReleaseNotes: |-
   新特性或修复的缺陷列表
   - 重组云数据库菜单
