@@ -14,7 +14,7 @@ InstallModes:
 ReleaseDate: 2026-10-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/dbkangaroo/kangaroo/releases/download/v9.9.1.1008/Kangaroo-ODBC-9.9.1.1008-x86_64.exe
+  InstallerUrl: https://github.com/dbkangaroo/kangaroo/releases/download/v9.9.1.1008/Kangaroo-Odbc-9.9.1.1008-x86_64.exe
   InstallerSha256: 2e0c4650a67544a3e58690ab049f81a977ea0c1c0ec7d410194152c7f8955fbf
 ManifestType: installer
 ManifestVersion: 1.12.0
